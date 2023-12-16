@@ -16,7 +16,9 @@ Greetings! I am a doctoral candidate specializing in applied mathematics. My aca
 
 
 
-
-A data-driven personal website
+Education
 ======
-
+* Ph.D in Applied Mathematics, University of Arizona, 2025 (expected)
+* M.S. in Statisitical Learning Theory, Skoltech & Higher School of Economics, 2021
+* M.S. in Electrical Engineering, Iran University of Science and Technology, 2013
+* B.S. in Electrical Engineering, Iran University of Science and Technology, 2010
