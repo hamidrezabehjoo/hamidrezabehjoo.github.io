@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am a doctoral candidate specializing in applied mathematics. My academic focus centers on the complex intersections of probability theory, optimal transport, and statistical machine learning. 
+Greetings! I am a PhD student in applied mathematics. My academic focus centers on statistical machine learning, probability theory and optimal transport. Currently I'm working on diffusion models, how to improve them and design new algorithms. 
+
+In my free time, I enjoy reading (persian poetry), running, drawing in a sketchbook and listening to russian hip-hop. From time to time I compulsively buy Lego, also I like going to London on Saturdays and watching Adam Sandler films on Netflix.
 
 
 
