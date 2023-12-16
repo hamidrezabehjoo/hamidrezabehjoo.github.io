@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt: ''
 date: 2023-01-25
-venue: 'preprint'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2301.10369'
 citation: ''
 ---
