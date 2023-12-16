@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, Iran University of Science and Technology, 2010
+* M.S. in Electrical Engineering, Iran University of Science and Technology, 2013
+* M.S. in Statisitical Learning Theory, Skoltech & Higher School of Economics, 2021
+* Ph.D in Applied Mathematics, University of Arizona, 2025 (expected)
 
 Work experience
 ======

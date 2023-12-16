@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welocme"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
-Greetings! I'm a PhD student immersed in the fascinating realms of applied mathematics. My academic journey revolves around the intricate intersections of probability theory, optimal transport, and the captivating universe of statistical machine learning.
+Greetings! I am a doctoral candidate specializing in applied mathematics. My academic focus centers on the complex intersections of probability theory, optimal transport, and statistical machine learning. 
 
 
 
