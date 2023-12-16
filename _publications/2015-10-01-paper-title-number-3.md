@@ -10,5 +10,3 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
 ---
 
 
-[Download paper here](http://hamidrezabehjoo.github.io/files/paper3.pdf)
-
