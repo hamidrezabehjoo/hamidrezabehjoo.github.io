@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am a doctoral candidate in applied mathematics with a primary research focus on statistical machine learning, probability theory, and optimal transport. My ongoing work involves the study and enhancement of diffusion models, including the development of novel algorithms aimed at improving their efficacy. 
+Greetings! I am a PhD student in applied mathematics at the University of Arizona with a primary research focus on statistical machine learning, probability theory, and optimal transport. My ongoing work involves the study and enhancement of diffusion models, including the development of novel algorithms aimed at improving their efficacy. 
 
 In my leisure time, I find pleasure in reading Persian poetry, engaging in the acquisition of new languages, and occasionally embarking on hiking expeditions around Tucson. 
 
