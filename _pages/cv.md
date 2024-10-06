@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied Mathematics, University of Arizona, 2025 (expected)
+* Ph.D in Applied Mathematics, University of Arizona, 2024.
 * M.S. in Statisitical Learning Theory, Skoltech & Higher School of Economics, 2021
 * M.S. in Electrical Engineering, Iran University of Science and Technology, 2013
 * B.S. in Electrical Engineering, Iran University of Science and Technology, 2010
